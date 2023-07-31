@@ -3,6 +3,5 @@
 
 ```
 A function
+A function
 ```
-
-`Adjacency`
