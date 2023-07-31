@@ -1,1 +1,1 @@
-# tie-decay-network-embedding
+# Tie-decay-network-embedding
