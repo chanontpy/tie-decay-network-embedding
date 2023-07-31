@@ -1,5 +1,12 @@
 # Tie-decay-network-embedding
 This repository provides the codes for the publication "Embedding and trajectories of temporal networks" by Chanon Thongprayoon, Lorenzo Livi, and Naoki Masuda.
+
+## Python packages in "File's name".py/ipynb
+-`import pandas as pd`
+-`import numpy as np`
+-`import numpy.linalg as LA`
+-`math`
+-`import matplotlib.pyplot as plt`
 ## Functions in "File's name".py/ipynb
 - `Adjacency`: to create an adjacency matrix at each time step, where at least one event occurs between a pair of nodes.
 - `ComputeBk`: use the tie-decay matrix at from the previous time step to compute the tie-decay matrix of the current time step.
