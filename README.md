@@ -1,5 +1,5 @@
 # Tie-decay-network-embedding
-This repository provides the codes for the publication "Embedding and trajectories of temporal networks" by Chanon Thongprayoon, Lorenzo Livi, and Naoki Masuda.
+This repository provides the codes for the publication "Embedding and trajectories of temporal networks" on IEEE Access(2023) by Chanon Thongprayoon, Lorenzo Livi, and Naoki Masuda.
 
 ## Python packages in "File's name".py/ipynb
 - `import pandas as pd`
