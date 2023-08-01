@@ -5,7 +5,7 @@ This repository provides the codes for the publication "Embedding and trajectori
 - `import pandas as pd`
 - `import numpy as np`
 - `import numpy.linalg as LA`
-- `math`
+- `import math`
 - `import matplotlib.pyplot as plt`
 ## Functions in "File's name".py/ipynb
 - `Adjacency`: to create an adjacency matrix at each time step, where at least one event occurs between a pair of nodes.
